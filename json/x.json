@@ -1,0 +1,35 @@
+{
+  "cursor": "59cf7370778cdc15fdebc508",
+  "products": [
+    {
+      "brand": "adidas",
+      "host": "www.zalora.sg",
+      "name": "adidas originals Pharrell Williams Tennis Hu",
+      "system_id": "599c6dfd6c02fb623581ae47"
+    },
+    {
+      "brand": "levi's",
+      "host": "www.zalora.sg",
+      "name": "The Trucker Jacket",
+      "system_id": "59acf94bcad8ff7c2266dbb8"
+    },
+    {
+      "brand": "adidas",
+      "host": "www.zalora.sg",
+      "name": "adidas originals stan smith",
+      "system_id": "599c78e06c02fb623581c700"
+    },
+    {
+      "brand": "adidas",
+      "host": "www.asos.com",
+      "name": "adidas Originals Stan Smith Leather Trainers In White S75074",
+      "system_id": "5890c5a97a6879361db078fd"
+    },
+    {
+      "brand": "levi's",
+      "host": "www.zalora.sg",
+      "name": "505â„¢C Slim Fit Jeans",
+      "system_id": "59ae0d4c5a3e81ec79170e7f"
+    }
+  ]
+}
